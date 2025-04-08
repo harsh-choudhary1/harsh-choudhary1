@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh-choudhary1
-- ![Visitor Count](https:#//komarev.com/ghpvc/?username=harsh-choudhary1&label=Profile%20Views&color=blue&style=plastic)
+<!---- ![Visitor Count](https://komarev.com/ghpvc/?username=harsh-choudhary1&label=Profile%20Views&color=blue&style=plastic)--->
 
 - 👀 I’m interested in ... AI & Machine Learning
 - ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-choudhary1&show_icons=true&theme=dark)
